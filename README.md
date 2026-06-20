@@ -4,14 +4,14 @@
 
 - account executive at assessmentQ (Televic) — digital assessment platform
 - first open-source project almost ready to push to GitHub
-- running a self-hosted homelab on a Minisforum mini PC: Ubuntu, Docker, Cloudflare Tunnel, Tailscale, Open WebUI, Langfuse
-- experimenting with AI agent flows and trying to understand how the pieces fit together
+- self-hosted homelab on a Minisforum mini PC: Ubuntu, Docker, Cloudflare Tunnel, Tailscale
+- experimenting with AI agent flows
 
 **2025 — a year in Miami, mostly learning:**
 
 - had a year away from work due to visa restrictions. used the time to learn things i'd been curious about
-- started with Lovable.dev — built 5+ small web apps, each connecting real APIs and tools. slowly started writing actual Python
-- built Centralynk: a GEO (Generative Engine Optimization) tool — FastAPI backend, Celery, PostgreSQL + pgvector, Qdrant for semantic search
+- started with Lovable.dev — built 5+ small web apps connecting real APIs and tools
+- built Centralynk: a GEO (Generative Engine Optimization) tool — FastAPI, Celery, PostgreSQL + pgvector, Qdrant
 - integrated LLM APIs: Groq, Gemini 2.0 Flash, local models via Ollama. started building agentic AI flows
 - got hands-on with Azure and Google Cloud Console — IAM, service accounts, basic deployments
 - most of it was googling a lot, breaking things, and slowly getting less confused
@@ -51,7 +51,3 @@ still figuring out where it all goes. building things in the meantime.
 - **sales:** Salesforce · Salesloft · Apollo.ai · Clay · Planhat · Lemlist
 - **methodology:** MEDDPICC · Maverick Selling
 - **productivity:** Fathom · Notion · Lusha · LinkedIn Sales Navigator
-
----
-
-*tim_dv@live.be · Brussels · [centralynk.com](https://centralynk.com)*
