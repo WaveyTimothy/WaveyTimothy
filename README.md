@@ -34,7 +34,7 @@
 
 **where i'm at:**
 
-i'm not a developer. i can build small things, i understand enough to have a real conversation with engineers, and i'm getting better — but i'm not trying to pretend i'm something i'm not.
+i'm not a developer (yet). i can build small things, i understand enough to have a real conversation with engineers, and i'm getting better — but i'm not trying to pretend i'm something i'm not.
 
 what i do think is useful is having spent years on the sales side of complex software deals, and now actually trying to build. the gap between how software gets sold and how it gets built is wider than most people admit, and i find that interesting to sit in.
 
