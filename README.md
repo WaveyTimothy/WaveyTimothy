@@ -3,7 +3,7 @@
 **now:**
 
 - account executive at assessmentQ (Televic) — digital assessment platform
-- first open-source project almost ready to push to GitHub
+- first open-source project pushed to GitHub
 - self-hosted homelab on a Minisforum mini PC: Ubuntu, Docker, Cloudflare Tunnel, Tailscale
 - experimenting with AI agent flows
 
@@ -18,7 +18,7 @@
 
 **2021–2025 — account executive at Genesys:**
 
-- sold Genesys Cloud CX to enterprise customers in Belgium
+- sold Genesys Cloud CX to enterprise customers in Belgium (+4M euro in TCV)
 - managed the full sales cycle — prospecting, demos, business cases, negotiations, close
 - worked with partners: Proximus NXT, Telenet Business, NTT, Orange Business, Sabio
 - spent four years selling software and gradually got more curious about how it was actually built
