@@ -2,6 +2,7 @@
 
 **now:**
 
+- Associate Solution Engineer at Keepit — Data backup & recovery platform
 - account executive at assessmentQ (Televic) — digital assessment platform
 - first open-source project pushed to GitHub
 - self-hosted homelab on a Minisforum mini PC: Ubuntu, Docker, Cloudflare Tunnel, Tailscale
